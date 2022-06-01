@@ -1,0 +1,9 @@
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\AppxScan\AppxScan\bin\Release\AppxScan.exe
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\AppxScan\AppxScan\bin\Release\AppxScan.pdb
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\AppxScan\AppxScan\bin\Release\AppxScan.xml
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\AppxScan\AppxScan\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\AppxScan\AppxScan\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\AppxScan\AppxScan\obj\x86\Release\AppxScan.vbproj.GenerateResource.Cache
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\AppxScan\AppxScan\obj\x86\Release\AppxScan.exe
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\AppxScan\AppxScan\obj\x86\Release\AppxScan.xml
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\AppxScan\AppxScan\obj\x86\Release\AppxScan.pdb
