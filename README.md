@@ -13,7 +13,9 @@ Aplicación .exe que lleva a cabo un escáner exhaustivo en un rango de red espe
 Los archivos que vemos a continuación han de estar en el escritorio:
 
 Información.txt
+
 xPorts.ps1
+
 xScan.bat
 
 De esta forma, nuestro .exe podrá recoger la información al Desktop de nuestro usuario en cuestión.
