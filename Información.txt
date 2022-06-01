@@ -1,0 +1,21 @@
+xScan.exe es un software para los sistemas Windows de 32 y 64 bits.
+
+Tiene como objetivo analizar todo el segmento de red con xScan y, analizar todos los puertos de un target con xPorts.
+
+
+Para llevar a cabo la ejecución de Scripts, vas a necesitar desbloquear la ejecución de scripts ".ps1", para ello, tendrás el botón de Desbloqueo de Scripts. Si quieres saber más, tienes otro que te va a redirigir al sitio WEB que proporcionará la información necesaria.
+
+Por otro lado, tienes información en la "información.exe" que te redirigirá a mi GitHub. Podrás ver los códigos ps1, sh y la información de las herramientas tanto de Linux como de Windows. Cuando esta herramienta esté lista, pondré otra redirección a la misma para poder llevar a cabo el uso de la misma y ver todos los códigos necesarios.
+
+Debes de tener en cuenta que se generará un .exe, por lo que Windows de primera te dirá que no es confiable puesto que no podrá verificar la legitimidad del origen pero, tendréis todos los códigos disponibles en mi GitHub, no tendréis ningún problema con la herramienta y, en caso de dudas o algún tipo de modificación, poneos en contacto conmigo siempre que lo necesiteis.
+
+xScan --> Nos preguntará por el 3er octeto para el segmento de red en una IP de tipo C básica --> 192.168.X.X
+
+xPorts --> Nos preguntará por una IP específica después del escaneo con xScan para ver los servicios que corren actualmente.
+
+
+xScan v1.0 sirve para todo aquel que esté interesado en el control de su red a través de una GUI sencilla e intuitiva, en cuanto pueda, seguiré actualizando para aceptar CUALQUIER tipo de IP siempre y cuando sea de tipo C, de esta forma, no estará limitado al 192.168.X.X
+
+Por último, recordad que es un escaneo para proporcionar control y seguridad en nuestra red, por favor, no lo uséis para actos no éticos.
+
+@ShadowVMX
