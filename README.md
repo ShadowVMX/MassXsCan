@@ -5,6 +5,8 @@
 
 Aplicación .exe que lleva a cabo un escáner exhaustivo en un rango de red específico. Por otro lado, podremos llevar a cabo un escáner a un HOST específico para verificar los servicios actuales que corren en dicha máquina. [xScan.exe] actúa completamente a través de una GUI en Windows 10 para 32 y 64 bits.
 
+![Sin título](https://user-images.githubusercontent.com/92258683/171420510-63e6be3b-6e41-4b32-85c8-47ecd1018a6d.png)
+
 
 ## ¿Cómo debemos usarla?
 
