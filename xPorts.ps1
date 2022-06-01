@@ -21,23 +21,8 @@ $timeout_ms = 5
         echo " "
 
         ping -n 1 -w 10 "$ip" > NULL | Select-String "recibidos = 1";
-        echo "[*]Recuerda pulsar ENTER en el CMD para ejercer presión en la carga de datos (output)."
+        echo "[*]Recuerda pulsar ENTER en el CMD para ejercer presiÃ³n en la carga de datos (output)."
     
-
-if ($?)
-    
-   {
-     echo "[*]$ip --> UP"
-     echo " "
-   }
-
-   else {
-    echo "[*]HOST DOWN."
-    echo " "
-    Start-Sleep -s 5
-    exit
-   }
-
  
         foreach ($port in $portrange)
         {
